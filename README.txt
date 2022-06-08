@@ -1,10 +1,3 @@
-Name_1: Hanlin Zou
-Email_1: hzou7@bu.edu
-BU ID_1: U96634471
-
-Name_2: Zhaoyu Yin
-Email_2: zyyin@bu.edu
-BU ID_2: U26267142
 
 Compilation instructions:
 For users using IDEs, directly compile(build) and run to check out the execution in the console.
